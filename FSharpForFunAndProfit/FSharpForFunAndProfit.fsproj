@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include=".gitignore" />
     <None Include="Comparing_Sorting.fsx" />
     <None Include="ComparingFAndCSharp.fsx" />
     <None Include="FSharpIn60Seconds.fsx" />
